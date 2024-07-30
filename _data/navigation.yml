@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: Blog
+  link: /blog.html
+- name: Video
+  link: /video.html
+#- name: Gallery
+#  link: /gallery.html
+#- name: Merch
+#  link: /merch.html
+#- name: About and Contact
+#  link: /about.html
