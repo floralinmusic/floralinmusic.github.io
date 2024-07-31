@@ -14,7 +14,7 @@ But when I moved to the UK, everything changed. Musicians of all ages filled the
 That's how it started—making music with strangers.
 A safe environment to make mistakes.
 When you learn anything, at the beginning you'll suck.
-Writing terrible lyrics, singing off-key, making dozens of muddy mixes, being driven by an ambition that exceeded my skills. I did all of that.
+Writing terrible lyrics, singing off-key, making dozens of muddy mixes, being driven by ambition that exceeded my skills. I did all of that.
 It felt good though, being free to suck and progress.
 
 On the way I met JJYY, a talented pianist from South Korea.
@@ -47,7 +47,7 @@ We don't make progress as fast as we'd like to, but it feels so good when we loo
 
 I kept in touch with JJYY. Everytime she would show me a new beautiful song demo, and I'd show one of my collabs.
 There is one subject particularly special to her: pigeons.
-I can’t express it quite like she does, but many of us do not notice the beauty and resilience of pigeons. They are everywhere, among the the less desirable aspects of the city. So we treat them as nuisances. We forget about their strength, surviving in unforgiving places.
+I can’t express it quite like she does, but many of us do not notice the beauty and resilience of pigeons. They are everywhere, among the less desirable aspects of the city. So we treat them as nuisances. We forget about their strength, surviving in unforgiving places.
 It has been her project to celebrate pigeons through photographs, art, and music.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=974822196/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://okfeather.bandcamp.com/track/summer-of-young-love-feat-flora-lin">Summer of Young Love (feat. Flora Lin) by OK feather</a></iframe>
