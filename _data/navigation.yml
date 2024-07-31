@@ -8,5 +8,5 @@
 #  link: /gallery.html
 #- name: Merch
 #  link: /merch.html
-#- name: About and Contact
-#  link: /about.html
+- name: Contact
+  link: /contact.html
