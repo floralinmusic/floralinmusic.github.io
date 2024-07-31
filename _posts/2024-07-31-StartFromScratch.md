@@ -27,7 +27,7 @@ I got the opportunity to sing for hundreds, which forced me to sing with consist
 At that time, 50% of my collaborations ended with people ghosting me.
 
 Then 2020 hit.
-A producer named [LOHM](https://www.youtube.com/channel/UCxc-Gm_a5YqEOLG5Gdo67FA) invited me to a Discord music server,
+A producer named [LOHM](https://www.youtube.com/@lohm8767) invited me to a Discord music server,
 [Indie Music Feedback](https://indiemusicfeedback.com/).
 It was life changing.
 
