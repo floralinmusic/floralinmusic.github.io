@@ -39,10 +39,10 @@ I met so many cool and talented people.
 
 I became part of a band, [Cosmoose](https://cosmoose.org/), with the vision of the crazily talented DHXP.
 I finally accepted that while some of my limitations could be there forever, most were self-limitations, only in my head.
-Releasing these limiting beliefs opened doors to experiences I once thought were beyond my reach, 
+Releasing these limiting beliefs opened doors to experiences I once thought were beyond my reach,
 enriching my life in ways I never imagined.
 
-We all start somewhere and make our own creative set of mistakes. 
+We all start somewhere and make our own creative set of mistakes.
 We don't make progress as fast as we'd like to, but it feels so good when we look back, a few years later, and see how far we've come.
 
 I kept in touch with JJYY. Everytime she would show me a new beautiful song demo, and I'd show one of my collabs.
@@ -55,6 +55,6 @@ It has been her project to celebrate pigeons through photographs, art, and music
 From there we started our very own band, [OK Feather](https://okfeather.com/), a 4-piece band where she is the creative director.
 Is it serious "art"? How "profound" is it?
 
-Nowadays, I don't ask myself these questions anymore. 
+Nowadays, I don't ask myself these questions anymore.
 I'll dive headfirst into whatever creative impulse strikes me, and I hope you’ll do the same.
 If you're hesitating to start, there is no better time than now.
