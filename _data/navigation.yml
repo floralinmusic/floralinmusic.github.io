@@ -6,7 +6,7 @@
   link: /video.html
 #- name: Gallery
 #  link: /gallery.html
-#- name: Merch
-#  link: /merch.html
+- name: Merch
+  link: /merch.html
 - name: Contact
   link: /contact.html
