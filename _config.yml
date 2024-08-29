@@ -8,6 +8,8 @@ thumbsurl: "/assets/img/thumbs/"
 collections:
   members:
     output: true
+  lyrics:
+    output: true
 
 plugins:
   - jekyll-feed
@@ -25,6 +27,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "lyrics"
+    values:
+      layout: "member"
   - scope:
       path: ""
     values:
