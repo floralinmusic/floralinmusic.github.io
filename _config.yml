@@ -10,6 +10,9 @@ collections:
     output: true
   lyrics:
     output: true
+  interviews:
+    output: true
+    permalink: /interviews/:title/
 
 plugins:
   - jekyll-feed
@@ -25,6 +28,11 @@ defaults:
   - scope:
       path: ""
       type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "interviews"
     values:
       layout: "post"
   - scope:

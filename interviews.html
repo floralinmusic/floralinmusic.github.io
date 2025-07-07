@@ -1,0 +1,20 @@
+---
+layout: centered
+title: Interviews
+---
+
+<h1>Latest Interviews</h1>
+
+<ul>
+  {% for interview in site.interviews%}
+  <li>
+    <h2>
+      <a href="{{ interview.url }}"
+        >{{ interview.date | date: "%-d %B %Y"}}:
+        <q>{{ interview.title }}</q> by {{ interview.author }}</a
+      >
+    </h2>
+    <p>{{ interview.excerpt }}</p>
+  </li>
+  {% endfor %}
+</ul>
