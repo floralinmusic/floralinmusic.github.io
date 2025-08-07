@@ -6,7 +6,7 @@ title: Interviews
 <h1>Latest Interviews</h1>
 
 <ul>
-  {% for interview in site.interviews%}
+  {% for interview in site.interviews reversed %}
   <li>
     <h2>
       <a href="{{ interview.url }}"
