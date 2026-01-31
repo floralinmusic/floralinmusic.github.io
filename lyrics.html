@@ -5,10 +5,13 @@ title: Lyrics
 
 <h1>Lyrics</h1>
 
+{% assign albums = site.lyrics | group_by: 'album' %} {% for album in albums %}
+<h2>{{ album.name }}</h2>
 <ul>
-  {% assign lyrics = site.lyrics | sort: 'order' %} {% for lyric in lyrics%}
+  {% assign songs = album.items | sort: 'order' %} {% for lyric in songs %}
   <li>
-    <h2><a href="{{ lyric.url }}">{{ lyric.title }}</a></h2>
+    <a href="{{ lyric.url }}">{{ lyric.title }}</a>
   </li>
   {% endfor %}
 </ul>
+{% endfor %}
