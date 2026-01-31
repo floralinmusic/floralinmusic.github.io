@@ -1,4 +1,6 @@
 ---
 ---
 
-@use "main";
+// GitHub Pages uses an old Sass version that doesn't support @use.
+// Use @import here even though it's deprecated in modern Sass.
+@import "main";
