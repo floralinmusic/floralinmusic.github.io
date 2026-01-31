@@ -10,5 +10,10 @@ layout: default
       <h2>by {{ page.author }}</h2>
     </div>
     {{ content }}
+    <script
+      data-isso="https://recomments.lambdao.dev/"
+      src="https://recomments.lambdao.dev/js/embed.min.js"
+    ></script>
+    <section id="isso-thread" data-title="{{ page.title }}"></section>
   </div>
 </div>
