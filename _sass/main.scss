@@ -192,3 +192,11 @@ h3.numbered:before {
 .img-gallery:hover {
   transform: scale(1.05);
 }
+
+.lyrics-content {
+  white-space: pre-line;
+
+  p {
+    margin: 0;
+  }
+}

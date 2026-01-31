@@ -39,7 +39,7 @@ defaults:
       path: ""
       type: "lyrics"
     values:
-      layout: "member"
+      layout: "lyrics"
   - scope:
       path: ""
     values:
