@@ -18,7 +18,7 @@ All gone
 
 Distance was, the cause and the cure
 Different world, when I close my eyes
-Only lingering, the scent of lilac
+Only lingering, the smell of lilac
 
 Talking
 To a ghost
